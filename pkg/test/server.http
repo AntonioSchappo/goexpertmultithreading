@@ -1,0 +1,2 @@
+GET http://localhost:8000/busca/88085260
+Content-Type: application/json
